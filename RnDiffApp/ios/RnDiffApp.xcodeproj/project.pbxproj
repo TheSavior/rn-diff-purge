@@ -69,8 +69,8 @@
 		00E356EF1AD99517003FC87E /* RnDiffAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* RnDiffAppTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
+				00E356F21AD99517003FC87E /* RnDiffAppTests.m */,
 			);
 			path = RnDiffAppTests;
 			sourceTree = "<group>";
@@ -100,8 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-RnDiffApp.a */,
 				19F6CBCC0A4E27FBF8BF4A61 /* libPods-RnDiffApp-RnDiffAppTests.a */,
+				5DCACB8F33CDC322A6C60F78 /* libPods-RnDiffApp.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -140,10 +140,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-RnDiffApp.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-RnDiffApp.release.xcconfig */,
 				5B7EB9410499542E8C5724F5 /* Pods-RnDiffApp-RnDiffAppTests.debug.xcconfig */,
 				89C6BE57DB24E9ADA2F236DE /* Pods-RnDiffApp-RnDiffAppTests.release.xcconfig */,
+				3B4392A12AC88292D35C810B /* Pods-RnDiffApp.debug.xcconfig */,
+				5709B34CF0A7D63546082F79 /* Pods-RnDiffApp.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -242,8 +242,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
